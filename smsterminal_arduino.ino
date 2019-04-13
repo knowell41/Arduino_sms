@@ -7,7 +7,7 @@ SoftwareSerial mySerial(10, 11); // RX, TX
 char serial_input;
 char myserial_input;
 boolean myserial_flag = false;
-String contact = "09173174911";
+String contact = "0917xxxxxxx"; /// contact no. to send sms
 String msg = "";
 String sms = "";
 
